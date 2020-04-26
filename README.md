@@ -19,3 +19,9 @@ I used Flask web framework in built in Python to put in on web.
 *The application is run from the main.py file.
 
 ===============================================================================
+
+Knowledge source : 
+
+https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb145
+
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
